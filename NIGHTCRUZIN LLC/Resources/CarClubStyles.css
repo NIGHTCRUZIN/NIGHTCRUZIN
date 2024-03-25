@@ -54,3 +54,15 @@ h1 {
     color: #fff;
     z-index: 1000;
 }
+
+a {
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+@font-face { font-family: Coolvibes; src: url('/Users/devinbeane/Desktop/DEV-DRIVE/VSCode/Projects/NIGHTCRUZIN LLC/Resources/fonts/Cool Vibes - Demo.ttf'); 
+} 
+h2 {
+    font-family: Coolvibes;
+    font-size: 70px;
+}
